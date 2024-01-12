@@ -79,6 +79,8 @@ If your application is in a folder called `hotel_reservation`, you would access 
 * Feel free to contribute to the project by creating pull requests with your improvements.
 
 **Screenshots:**
+![pic1](https://github.com/FlavienNgueukam/hotel_booking--reservation--website/assets/118117597/cc3d45d8-0206-4670-9663-b5b2537fec46)
+
 
 
 
