@@ -95,4 +95,4 @@ Follow the instructions in the `hotel_db.sql` file to create and configure the M
 
 
 
-### Project Creator:** Flavien Ngueukam
+### Project Creator: Flavien Ngueukam
