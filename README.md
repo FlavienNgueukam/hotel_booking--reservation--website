@@ -32,21 +32,21 @@ Follow the instructions in the `hotel_db.sql` file to create and configure the M
 
 3. **Run the application:**
 
-   **Place the application files in the htdocs folder:**
+    **Place the application files in the htdocs folder:**
 
-- Locate the XAMPP installation directory on your computer. It's usually under `C:\xampp` on Windows and `/opt/lampp` on Linux.
-- Inside this directory, you'll find a folder called `htdocs`. This is the designated directory for web content.
-- Copy the entire application folder (containing its files and subfolders) into the `htdocs` folder.
+      - Locate the XAMPP installation directory on your computer. It's usually under `C:\xampp` on Windows and `/opt/lampp` on Linux.
+      - Inside this directory, you'll find a folder called `htdocs`. This is the designated directory for web content.
+      - Copy the entire application folder (containing its files and subfolders) into the `htdocs` folder.
 
    **Start the Apache and MySQL services:**
 
-- Open the XAMPP Control Panel.
-- Click the "Start" buttons next to Apache and MySQL (if your application uses a database).
-- Wait for the services to start successfully. You should see green "Running" indicators next to them.
+      - Open the XAMPP Control Panel.
+      - Click the "Start" buttons next to Apache and MySQL (if your application uses a database).
+      - Wait for the services to start successfully. You should see green "Running" indicators next to them.
 
    **Access the application in your browser:**
 
-- Open a web browser and type the following URL in the address bar:
+      - Open a web browser and type the following URL in the address bar:
 
 ```
 http://localhost/hotel_booking--reservation--website/
@@ -97,4 +97,6 @@ If your application is in a folder called `hotel_reservation`, you would access 
 ![pic8](https://github.com/FlavienNgueukam/hotel_booking--reservation--website/assets/118117597/baa08d5f-a998-4781-87ad-bab60554e15d)
 =================================================================================================================================================
 
-**Project Creator:** Flavien Ngueukam
+
+
+### Project Creator:** Flavien Ngueukam
