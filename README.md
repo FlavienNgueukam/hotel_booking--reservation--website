@@ -32,19 +32,19 @@ Follow the instructions in the `hotel_db.sql` file to create and configure the M
 
 3. **Run the application:**
 
-**1. Place the application files in the htdocs folder:**
+   **Place the application files in the htdocs folder:**
 
 - Locate the XAMPP installation directory on your computer. It's usually under `C:\xampp` on Windows and `/opt/lampp` on Linux.
 - Inside this directory, you'll find a folder called `htdocs`. This is the designated directory for web content.
 - Copy the entire application folder (containing its files and subfolders) into the `htdocs` folder.
 
-**2. Start the Apache and MySQL services:**
+   **Start the Apache and MySQL services:**
 
 - Open the XAMPP Control Panel.
 - Click the "Start" buttons next to Apache and MySQL (if your application uses a database).
 - Wait for the services to start successfully. You should see green "Running" indicators next to them.
 
-**3. Access the application in your browser:**
+   **Access the application in your browser:**
 
 - Open a web browser and type the following URL in the address bar:
 
@@ -66,7 +66,11 @@ If your application is in a folder called `hotel_reservation`, you would access 
 
 4. **Visit the application:**
 
-Open [http://localhost/hotel_booking--reservation--website/index.php] in your web browser.
+- Open a web browser and paste the following URL:
+
+```
+  http://localhost/hotel_booking--reservation--website/index.php
+```
 
 **Additional Notes:**
 
