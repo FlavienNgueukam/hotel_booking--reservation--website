@@ -48,20 +48,16 @@ Follow the instructions in the `hotel_db.sql` file to create and configure the M
 
       - Open a web browser and type the following URL in the address bar:
 
-```
-http://localhost/hotel_booking--reservation--website/
-```
+   ```
+   http://localhost/hotel_booking--reservation--website/
+   ```
 
-**For example:**
+   **Additional considerations:**
 
-If your application is in a folder called `hotel_reservation`, you would access it at `http://localhost/hotel_reservation/`.
-
-**Additional considerations:**
-
-- **Database configuration:** If your application uses a database, ensure it's configured to connect to the MySQL server running within XAMPP. Check the application's documentation for specific connection details.
-- **Dynamic content:** XAMPP supports PHP, Perl, and Python, so you can run applications written in these languages.
-- **Specific application instructions:** Some applications may have additional setup steps or configuration requirements. Refer to the application's documentation for specific guidance.
-- **Port conflicts:** If you encounter port conflicts with other applications, you can change the default ports used by Apache and MySQL in the XAMPP Control Panel.
+   - **Database configuration:** If your application uses a database, ensure it's configured to connect to the MySQL server running within XAMPP. Check the application's documentation for specific connection details.
+   - **Dynamic content:** XAMPP supports PHP, Perl, and Python, so you can run applications written in these languages.
+   - **Specific application instructions:** Some applications may have additional setup steps or configuration requirements. Refer to the application's documentation for specific guidance.
+   - **Port conflicts:** If you encounter port conflicts with other applications, you can change the default ports used by Apache and MySQL in the XAMPP Control Panel.
 
 
 4. **Visit the application:**
