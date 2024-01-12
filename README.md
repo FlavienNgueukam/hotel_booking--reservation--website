@@ -81,10 +81,20 @@ If your application is in a folder called `hotel_reservation`, you would access 
 **Screenshots:**
 
 ![pic1](https://github.com/FlavienNgueukam/hotel_booking--reservation--website/assets/118117597/cc3d45d8-0206-4670-9663-b5b2537fec46)
+=================================================================================================================================================
 ![pic2](https://github.com/FlavienNgueukam/hotel_booking--reservation--website/assets/118117597/14b16889-8d03-47cc-bc9b-c3f45cb78331)
+=================================================================================================================================================
 ![pic3](https://github.com/FlavienNgueukam/hotel_booking--reservation--website/assets/118117597/92c59a3e-7eb2-4da0-8cf9-4a3665634e99)
+=================================================================================================================================================
 ![pic4](https://github.com/FlavienNgueukam/hotel_booking--reservation--website/assets/118117597/c7066cda-7c9b-4f79-9db9-53e519469c67)
+=================================================================================================================================================
 ![pic5](https://github.com/FlavienNgueukam/hotel_booking--reservation--website/assets/118117597/0074de1e-0ac3-4d10-ab8e-e9317fc69010)
+=================================================================================================================================================
 ![pic6](https://github.com/FlavienNgueukam/hotel_booking--reservation--website/assets/118117597/0d910482-a055-4c7e-b0d7-6150ff8decb5)
+=================================================================================================================================================
 ![pic7](https://github.com/FlavienNgueukam/hotel_booking--reservation--website/assets/118117597/bc006ec8-fece-4ece-b914-dfbfcd8ea0d6)
+=================================================================================================================================================
 ![pic8](https://github.com/FlavienNgueukam/hotel_booking--reservation--website/assets/118117597/baa08d5f-a998-4781-87ad-bab60554e15d)
+=================================================================================================================================================
+
+**Project Creator:** Flavien Ngueukam
