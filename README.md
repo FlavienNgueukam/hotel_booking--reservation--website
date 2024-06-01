@@ -1,4 +1,6 @@
-## Hotel Reservation Website (HReW) 
+# Hotel Reservation Website (HReW) 
+
+---
 
 ### Table of contents
 
@@ -8,12 +10,13 @@
 - [Getting Started](#gettingstarted)
 - [Visit the application](#visittheapplication)
 
-  
-**About:**
+---
+
+##About
 
 HReW is a web application for managing hotel reservations. It allows users to search for available rooms, book reservations, and manage their booking details. This README file provides an overview of the project, its features, and instructions for setting up and using the application.
 
-**Features:**
+####Features
 
 * **User-friendly interface:** HReW offers a clean and intuitive interface for users to easily navigate and make reservations.
 * **Room Availability Search:** Users can search for available rooms based on their preferred dates, room type, and number of guests.
@@ -21,13 +24,13 @@ HReW is a web application for managing hotel reservations. It allows users to se
 * **Reservation Management:** Users can view, modify, and cancel their reservations directly through the app.
 * **Admin Panel:** An admin panel allows hotel staff to manage room availability, set prices, and view reservation details.
 
-**Technologies used:**
+####Technologies used
 
 * Front-end: HTML, CSS, JavaScript
 * Back-end: PHP
 * Database: MySQL
 
-**Getting Started:**
+####Getting Started
 
 1. **Clone the repository:**
 
@@ -69,7 +72,7 @@ Follow the instructions in the `hotel_db.sql` file to create and configure the M
    - **Port conflicts:** If you encounter port conflicts with other applications, you can change the default ports used by Apache and MySQL in the XAMPP Control Panel.
 
 
-4. **Visit the application:**
+4. ####Visit the application
 
 - Open a web browser and paste the following URL:
 
@@ -102,6 +105,13 @@ Follow the instructions in the `hotel_db.sql` file to create and configure the M
 ![pic8](https://github.com/FlavienNgueukam/hotel_booking--reservation--website/assets/118117597/baa08d5f-a998-4781-87ad-bab60554e15d)
 =================================================================================================================================================
 
+## License
+
+MIT License
+
+Copyright (c) [2023] [Flavien Ngueukam]
 
 
-### Project Creator: Flavien Ngueukam
+[Back To The Top](#Hotel Reservation Website (HReW))
+
+
