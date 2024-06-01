@@ -2,16 +2,6 @@
 
 ---
 
-### Table of contents
-
-- [About](#about)
-- [Features](#features)
-- [Technology used](#technologyused)
-- [Getting Started](#gettingstarted)
-- [Visit the application](#visittheapplication)
-
----
-
 **About:**
 
 HReW is a web application for managing hotel reservations. It allows users to search for available rooms, book reservations, and manage their booking details. This README file provides an overview of the project, its features, and instructions for setting up and using the application.
@@ -125,7 +115,5 @@ Follow the instructions in the `hotel_db.sql` file to create and configure the M
 MIT License
 
 Copyright (c) [2024] [Flavien Ngueukam]
-
-[Back To The Top](#Hotel Reservation Website (HReW))
 
 ---
