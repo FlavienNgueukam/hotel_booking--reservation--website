@@ -12,11 +12,13 @@
 
 ---
 
-##About
+**About:**
 
 HReW is a web application for managing hotel reservations. It allows users to search for available rooms, book reservations, and manage their booking details. This README file provides an overview of the project, its features, and instructions for setting up and using the application.
 
-####Features
+---
+
+**Features:**
 
 * **User-friendly interface:** HReW offers a clean and intuitive interface for users to easily navigate and make reservations.
 * **Room Availability Search:** Users can search for available rooms based on their preferred dates, room type, and number of guests.
@@ -24,13 +26,17 @@ HReW is a web application for managing hotel reservations. It allows users to se
 * **Reservation Management:** Users can view, modify, and cancel their reservations directly through the app.
 * **Admin Panel:** An admin panel allows hotel staff to manage room availability, set prices, and view reservation details.
 
-####Technologies used
+---
+
+**Technologies used:**
 
 * Front-end: HTML, CSS, JavaScript
 * Back-end: PHP
 * Database: MySQL
 
-####Getting Started
+---
+
+**Getting Started:**
 
 1. **Clone the repository:**
 
@@ -38,9 +44,13 @@ HReW is a web application for managing hotel reservations. It allows users to se
 git clone https://github.com/FlavienNgueukam/hotel_booking--reservation--website
 ```
 
+---
+
 2. **Set up the database:**
 
 Follow the instructions in the `hotel_db.sql` file to create and configure the MySQL database.
+
+---
 
 3. **Run the application:**
 
@@ -70,9 +80,10 @@ Follow the instructions in the `hotel_db.sql` file to create and configure the M
    - **Dynamic content:** XAMPP supports PHP, Perl, and Python, so you can run applications written in these languages.
    - **Specific application instructions:** Some applications may have additional setup steps or configuration requirements. Refer to the application's documentation for specific guidance.
    - **Port conflicts:** If you encounter port conflicts with other applications, you can change the default ports used by Apache and MySQL in the XAMPP Control Panel.
+     
+---
 
-
-4. ####Visit the application
+4. **Visit the application:**
 
 - Open a web browser and paste the following URL:
 
@@ -85,6 +96,8 @@ Follow the instructions in the `hotel_db.sql` file to create and configure the M
 * This is a basic example of a hotel reservation website. You can customize and extend the features as needed.
 * Refer to the `documentation` folder for detailed documentation on the project.
 * Feel free to contribute to the project by creating pull requests with your improvements.
+  
+---
 
 **Screenshots:**
 
@@ -105,13 +118,14 @@ Follow the instructions in the `hotel_db.sql` file to create and configure the M
 ![pic8](https://github.com/FlavienNgueukam/hotel_booking--reservation--website/assets/118117597/baa08d5f-a998-4781-87ad-bab60554e15d)
 =================================================================================================================================================
 
+---
+
 ## License
 
 MIT License
 
-Copyright (c) [2023] [Flavien Ngueukam]
-
+Copyright (c) [2024] [Flavien Ngueukam]
 
 [Back To The Top](#Hotel Reservation Website (HReW))
 
-
+---
